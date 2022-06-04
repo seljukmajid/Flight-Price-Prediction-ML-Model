@@ -1,0 +1,7 @@
+airline,source_city,departure_time,stops,arrival_time,destination_city,class,duration,days_left,Economy,Business,stops_one,stops_zero,stops_two_or_more
+SpiceJet,Delhi,Evening,zero,Night,Mumbai,Economy,2.17,1,1,0,0,1,0
+SpiceJet,Delhi,Early_Morning,zero,Morning,Mumbai,Economy,2.33,1,1,0,0,1,0
+AirAsia,Delhi,Early_Morning,zero,Early_Morning,Mumbai,Economy,2.17,1,1,0,0,1,0
+Vistara,Delhi,Morning,zero,Afternoon,Mumbai,Economy,2.25,1,1,0,0,1,0
+Vistara,Delhi,Morning,zero,Morning,Mumbai,Economy,2.33,1,1,0,0,1,0
+,,,,,,,,,,,,,
